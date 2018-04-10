@@ -1,0 +1,9 @@
+products:
+   D:\SourceCode\Telstra\MICS\scala\learn-scala\src\main\scala\Library.scala -> D:\SourceCode\Telstra\MICS\scala\learn-scala\build\classes\scala\main\Library.class
+binary dependencies:
+   D:\SourceCode\Telstra\MICS\scala\learn-scala\src\main\scala\Library.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   D:\SourceCode\Telstra\MICS\scala\learn-scala\src\main\scala\Library.scala -> C:\Users\d874546\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+source dependencies:
+external dependencies:
+class names:
+   D:\SourceCode\Telstra\MICS\scala\learn-scala\src\main\scala\Library.scala -> Library
